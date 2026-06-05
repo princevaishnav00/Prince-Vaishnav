@@ -98,6 +98,8 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 **Tech Stack:** AWS EC2, Docker, Docker Compose, GitHub Actions, Nginx, MongoDB
 
+🔗 Repository: https://github.com/princevaishnav00/MEAN-Application-Deployment.git
+
 ---
 
 ## 🔹 Terraform Multi-Environment Infrastructure
@@ -108,6 +110,8 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 * Automated infrastructure provisioning
 
 **Tech Stack:** Terraform, AWS EC2, S3, DynamoDB, VPC
+
+🔗 Repository: https://github.com/princevaishnav00/Terraform-Multi-Env-AWS.git
 
 ---
 
