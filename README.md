@@ -89,7 +89,7 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 ---
 
-## 🔹 MEAN Stack CI/CD Deployment on AWS
+## 🔹 MEAN Stack CI/CD Deployment using GitHub Action
 
 * Automated Docker image build & deployment using GitHub Actions
 * Containerized Node.js and MongoDB application
