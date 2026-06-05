@@ -139,11 +139,11 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 📧 Email: [vaishnavprince995@gmail.com](mailto:vaishnavprince995@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/princevaishnav
+💼 LinkedIn: https://www.linkedin.com/in/prince-vaishnav-b685a0319
 
-💻 GitHub: https://github.com/princevaishnav
+💻 GitHub: https://github.com/princevaishnav00
 
 ---
 
-⭐ "Automating everything that can be automated."
+⭐ "I believe hands-on projects, consistency, and continuous learning are the keys to becoming a successful DevOps Engineer."
 
