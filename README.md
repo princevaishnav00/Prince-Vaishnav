@@ -85,6 +85,8 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 **Tech Stack:** AWS EKS, Kubernetes, Jenkins, Argo CD, Docker, Prometheus, Grafana
 
+🔗 Repository: https://github.com/princevaishnav00/3-tier-EKS-deployment.git
+
 ---
 
 ## 🔹 MEAN Stack CI/CD Deployment on AWS
